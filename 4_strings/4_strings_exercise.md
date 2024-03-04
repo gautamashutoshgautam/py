@@ -8,8 +8,8 @@ Now Print the address in such a way that the street, city and country prints in 
     2. Print "sun" using negative index
 3. Create two variables to store how many fruits and vegetables you eat in a day.
 Now Print "I eat x veggies and y fruits daily" where x and y presents vegetables and fruits that you eat everyday. Use python f string for this.
-4. I have a string variable called s='maine 200 banana khaye'. This of course is a
-wrong statement, the correct statement is 'maine 10 samosa khaye'.
+4. I have a string variable called s='I ate 200 banana'. This of course is a
+wrong statement, the correct statement is 'I ate 10 samosa'.
 Replace incorrect words in original strong with new ones and print the new string.
 Also try to do this in one line.
 
